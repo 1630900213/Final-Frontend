@@ -1,6 +1,6 @@
-import Routes from './Routes'
+// import Routes from './Routes'
 function App() {
-  return <Routes />
+  return <div>Test Routes</div>
 }
 
 export default App
